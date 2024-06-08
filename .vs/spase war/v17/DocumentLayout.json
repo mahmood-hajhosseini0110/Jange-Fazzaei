@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|i:\\project schol\\project = space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|solutionrelative:spase war\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|solutionrelative:spase war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|solutionrelative:spase war\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F19DF1B5-1A9D-4C1F-96B6-61A7CA622721}|spase war\\spase war.csproj|solutionrelative:spase war\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form1.cs",
+              "RelativeDocumentMoniker": "spase war\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asre Technology\\Music\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:29:34.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form2.cs",
+              "RelativeDocumentMoniker": "spase war\\Form2.cs",
+              "ToolTip": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form2.cs [Design]",
+              "RelativeToolTip": "spase war\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:50:16.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form1.cs",
+              "RelativeDocumentMoniker": "spase war\\Form1.cs",
+              "ToolTip": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form1.cs",
+              "RelativeToolTip": "spase war\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:15:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form2.cs",
+              "RelativeDocumentMoniker": "spase war\\Form2.cs",
+              "ToolTip": "I:\\Project schol\\Project = Space war\\spaseh war\\spaseh war\\spase war\\spase war\\spase war\\Form2.cs",
+              "RelativeToolTip": "spase war\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:37:27.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

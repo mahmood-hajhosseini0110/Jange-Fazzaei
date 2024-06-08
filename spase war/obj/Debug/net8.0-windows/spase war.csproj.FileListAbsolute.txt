@@ -1,0 +1,134 @@
+D:\spase war\spase war\bin\Debug\net8.0-windows\spase war.exe
+D:\spase war\spase war\bin\Debug\net8.0-windows\spase war.deps.json
+D:\spase war\spase war\bin\Debug\net8.0-windows\spase war.runtimeconfig.json
+D:\spase war\spase war\bin\Debug\net8.0-windows\spase war.dll
+D:\spase war\spase war\bin\Debug\net8.0-windows\spase war.pdb
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form1.resources
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form2.resources
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Properties.Resources.resources
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.GenerateResource.cache
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.GeneratedMSBuildEditorConfig.editorconfig
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfoInputs.cache
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfo.cs
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.CoreCompileInputs.cache
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.dll
+D:\spase war\spase war\obj\Debug\net8.0-windows\refint\spase war.dll
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.pdb
+D:\spase war\spase war\obj\Debug\net8.0-windows\spase war.genruntimeconfig.cache
+D:\spase war\spase war\obj\Debug\net8.0-windows\ref\spase war.dll
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.exe
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.deps.json
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.runtimeconfig.json
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.dll
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.pdb
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form1.resources
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form2.resources
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Properties.Resources.resources
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.GenerateResource.cache
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfoInputs.cache
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfo.cs
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.CoreCompileInputs.cache
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.dll
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\refint\spase war.dll
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.pdb
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.genruntimeconfig.cache
+C:\Users\salam\Downloads\Eitaa Desktop\spase war\spase war\spase war\obj\Debug\net8.0-windows\ref\spase war.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.exe
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.deps.json
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.runtimeconfig.json
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.pdb
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form1.resources
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form2.resources
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Properties.Resources.resources
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.GenerateResource.cache
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfoInputs.cache
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfo.cs
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.CoreCompileInputs.cache
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\refint\spase war.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.pdb
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.genruntimeconfig.cache
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\ref\spase war.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPDXMLib.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLauncher.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMLSS.dll
+C:\Users\salam\Downloads\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.ResolveComReference.cache
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.exe
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.deps.json
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.runtimeconfig.json
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.pdb
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPDXMLib.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLauncher.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMLSS.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.ResolveComReference.cache
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form1.resources
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form2.resources
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Properties.Resources.resources
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.GenerateResource.cache
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfoInputs.cache
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfo.cs
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.CoreCompileInputs.cache
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\refint\spase war.dll
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.pdb
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.genruntimeconfig.cache
+C:\Users\Asre Technology\Desktop\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\ref\spase war.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPDXMLib.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLauncher.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMLSS.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.ResolveComReference.cache
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form1.resources
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form2.resources
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Properties.Resources.resources
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.GenerateResource.cache
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.GeneratedMSBuildEditorConfig.editorconfig
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfoInputs.cache
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfo.cs
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.CoreCompileInputs.cache
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\refint\spase war.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.pdb
+F:\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.exe
+F:\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.deps.json
+F:\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.runtimeconfig.json
+F:\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.pdb
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.genruntimeconfig.cache
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\ref\spase war.dll
+F:\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form3.resources
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.exe
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.deps.json
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.runtimeconfig.json
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\bin\Debug\net8.0-windows\spase war.pdb
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPDXMLib.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMPLauncher.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\Interop.WMLSS.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.ResolveComReference.cache
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form1.resources
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form2.resources
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Form3.resources
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase_war.Properties.Resources.resources
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.GenerateResource.cache
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfoInputs.cache
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.AssemblyInfo.cs
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.csproj.CoreCompileInputs.cache
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\refint\spase war.dll
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.pdb
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\spase war.genruntimeconfig.cache
+C:\Users\Asre Technology\Music\spaseh war\spaseh war\spase war\spase war\spase war\obj\Debug\net8.0-windows\ref\spase war.dll
